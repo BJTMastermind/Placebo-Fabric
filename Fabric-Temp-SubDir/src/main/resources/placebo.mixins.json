@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "shadows.placebo.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "AbstractContainerMenuInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
